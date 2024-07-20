@@ -22,12 +22,6 @@ Bem-vindo ao repositório do "Site de Evento da EBAC"! Este projeto é um site d
 
 O "Site de Evento da EBAC" é uma plataforma web que permite aos usuários lançar e visualizar eventos. É construído com foco em boas práticas de desenvolvimento, design responsivo e experiência do usuário.
 
-## Funcionalidades
-
-- **Lançar Eventos:** Permite aos usuários criar novos eventos.
-- **Listar Eventos:** Exibe uma lista de eventos criados.
-- **Design Responsivo:** Adaptado para funcionar em diferentes dispositivos e tamanhos de tela.
-
 ## Tecnologias Utilizadas
 
 - **HTML5:** Marcações semânticas e acessíveis.

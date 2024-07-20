@@ -9,7 +9,6 @@ Bem-vindo ao repositório do "Site de Evento da EBAC"! Este projeto é um site d
 ## Índice
 
 - [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Uso](#uso)
